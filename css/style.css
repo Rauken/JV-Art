@@ -1,0 +1,49 @@
+.slider0 {
+  height: 110vh;
+  weight: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: url("../rsc/wall/wall00.jpg") no-repeat center center fixed; }
+
+.slider1 {
+  height: 110vh;
+  weight: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: url("../rsc/wall/wall01.jpg") no-repeat center center fixed; }
+
+.slider2 {
+  height: 110vh;
+  weight: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: url("../rsc/wall/wall02.jpg") no-repeat center center fixed; }
+
+.slider3 {
+  height: 110vh;
+  weight: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: url("../rsc/wall/wall03.jpg") no-repeat center center fixed; }
+
+.slider4 {
+  height: 110vh;
+  weight: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: url("../rsc/wall/wall04.jpg") no-repeat center center fixed; }
+
+body {
+  position: relative; }
+
+/*# sourceMappingURL=style.css.map */
